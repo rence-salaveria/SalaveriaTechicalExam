@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "434757779309",
+    "project_id": "salaveriatechnicalexamfl-e4b29",
+    "storage_bucket": "salaveriatechnicalexamfl-e4b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434757779309:android:2971a3e354c3798d6d2464",
+        "android_client_info": {
+          "package_name": "com.mycompany.salaveriatechnicalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434757779309-l5hea76rg3lfcrlt0t1ffd4crpf5th03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUeU8m69i8dgPpALyVX_46edIquCxGHcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434757779309-l5hea76rg3lfcrlt0t1ffd4crpf5th03.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434757779309-k81hjtad0n0u9nsliim8h650o4ak916q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.salaveriatechnicalexam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
